@@ -6,9 +6,9 @@ In the current 0.0.1 release, all that is given is a bare-bones search box with 
 handful of options. Future versions are expected to include more advance searching/filtering
 and allow for a type of recommendation system without the need for the search box.
 
-h2. Example Site (temporary)
+h2. Example Site
 
-"http://static.digitalcommonwealth.org/dpla-discovery":http://static.digitalcommonwealth.org/dpla-discovery
+"http://dpla.github.io/dpla-discovery":http://dpla.github.io/dpla-discovery
 
 h2. Installation/Setup
 
